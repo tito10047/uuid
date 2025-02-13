@@ -9,7 +9,7 @@ use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 /**
  * @link https://symfony.com/doc/current/bundles/best_practices.html
  */
-class Uuid extends AbstractBundle
+class UuidBundle extends AbstractBundle
 {
     public function loadExtension(array $config, ContainerConfigurator $container, ContainerBuilder $builder): void
     {
