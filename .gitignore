@@ -1,0 +1,7 @@
+/vendor/
+composer.lock
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uuid-bundle.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
